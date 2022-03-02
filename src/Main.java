@@ -2,8 +2,8 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        Menu p1 = new Menu();
+        menu2 p1 = new menu2();
 
-        p1.setVisible(true);
+
     }
 }
